@@ -82,7 +82,16 @@ Some quick definitions and additional resources related to the technology behind
 - [Fungible Token:](https://github.com/stacksgov/sips/blob/hstove-feat/sip-10-ft/sips/sip-010/sip-010-fungible-token-standard.md) Digital assets that can be sent, received, combined, and divided.
 
 ## References
+---
 
+## Fork Notes
+
+Forked by [@serayd61](https://github.com/serayd61) for city token analysis.
+
+### Research Goals
+- Mining reward optimization
+- City token analytics
+- Community governance tools
 - [Stacks 2.0 Whitepaper](https://gaia.blockstack.org/hub/1AxyPunHHAHiEffXWESKfbvmBpGQv138Fp/stacks.pdf)
 - [Clarity Language Reference](https://docs.stacks.co/write-smart-contracts/language-overview)
 - [Clarity Function Reference](https://docs.stacks.co/write-smart-contracts/language-functions)
